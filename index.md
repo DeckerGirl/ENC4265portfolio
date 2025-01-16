@@ -3,9 +3,7 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
-
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
+My name is Amber Spath and I'm a transfer IT student at UCF. I'm currently looking for a part-time tech job. I have a lot of independant experience with coding but I tend to favor UI&UX over back-end software work. I don't have any work experience in IT except for freelance technician work I did for an old employer while I was working at her Bakery. This was a two to three year period where I was taking time off school to work. I started as a barista and waitress and later was promoted to being on of their main Bakers. Prior to this, I've worked as catering staff for an event planner and as a hostess at a seafood bar. I really credit my experience in the restraunt buisness for teaching me the value of flexibility in conjunction with hardwork and being able to effectively collaborate with customers and co-workers. 
 
 [Start Here instructional page for copying this website](starthere.md)
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>

@@ -49,5 +49,5 @@ TBD
 # Reflective Blog 7
 TBD
 
-# Reflective Blog 8
+# Reflective Blog 8 (Optional - Make-up)
 TBD

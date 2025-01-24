@@ -7,7 +7,8 @@
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+<center><img src="Screenshot 2025-01-23 195228.png"></center>
+
 The first thing I noticed was how crowded with information and ads Amazon’s homepage was. While the basic structure was in place—a search bar at the top center, product recommendations, and categories—everything seemed to be competing for attention. TThe top of the page had a horizontal navigation bar with categories like "Books," "Electronics," and "Clothing," but it wasn’t as intuitive or easy to navigate as current designs. I had to read everything carefully and sift through tdifferent features to find what I was looking for. I think the utilitarian fonts added to this confusion. Nothing was bolded or highlighted to stand out more in the sea of information. Maybe with the exception of promotional ads (something amazon decided placementon but not design). Otherwise the site was lacking in graphics.
 
 The promotional bannersfeatured under product reccomendations stuck out slightly more with their white-text-on-blue back design. It detailed options, including an advertisement for Amazon’s own credit card and other promotional banners. I beleive the overwhelmingly white background used for this site's design coupled with the use of light blue text links, washes out information and makes the site difficult to navigate. There's too much white space and the text doesn't stand out enough against it.

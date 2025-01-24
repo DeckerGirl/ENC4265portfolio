@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
+For this assignment I chose to analyze the design of a yahoo webpage from 1998.
 
 ## Assignment Rationale 
 

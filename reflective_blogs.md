@@ -18,7 +18,17 @@ Today, Amazon uses a cleaner, more dynamic layout that focuses more on user inte
 
 ---
 # Quick Start Guide
-For this assignment I chose to make a quick start guide for an electric kettle.
+For this assignment I chose to make a quick start guide for an electric kettle. As such this quick start guide will be targeted at consumers.
+Step 1: Unbock and Inspect the Kettle.
+Unbox the kettle. This kettle comes with a plug-in base, a kettle body, and a top. Take off the top and inspect the kettle for any damage or dirt. Wipe it down with a damp rag to be safe.
+Step 2: Find a place for your kettle and plug-in the base. 
+Decide where you desire to place your kettle. Maybe you want to keep it on the kitchen counter or a table in the office breakroom. It should be a place close to an electrical outlet. Now plug in the base.
+Step 3: Fill Kettle with water and heat.
+Take the kettle body, remove the top, and fill with water. Place the lid back on. Now place the full kettle onto the plued-in base. Push down the button by the base of the kettle handle to start the kettle.
+Step 4: Make tea or coffee.
+Now that your water boiled, use it for tea or coffee in the mug of your choice!
+Step 5: Maintnaince aka Descaling the Kettle.
+Limescale can build up in kettles and coffe makers due to hard water. Once a month, one should fill their kettle with an inch of white vinegar ntill evaporation to break down this limescale. After this rinse out with water and use as usual.
 
 ## Assignment Rationale 
 This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.

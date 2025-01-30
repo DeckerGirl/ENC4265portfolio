@@ -16,11 +16,9 @@ The promotional bannersfeatured under product reccomendations stuck out slightly
 Today, Amazon uses a cleaner, more dynamic layout that focuses more on user intent and behavior rather than overwhelming them with too many options upfront.
 <center><img src="Screenshot (1).png"></center>
 
-## Assignment Rationale 
-
-
 ---
 # Quick Start Guide
+For this assignment I chose to make a quick start guide for an electric kettle.
 
 ## Assignment Rationale 
 This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.

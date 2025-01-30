@@ -19,6 +19,7 @@ Today, Amazon uses a cleaner, more dynamic layout that focuses more on user inte
 ---
 # Quick Start Guide
 For this assignment I chose to make a quick start guide for an electric kettle. As such this quick start guide will be targeted at consumers.
+<center><img src="kettle.png"></center>
 
 Step 1: Unbock and Inspect the Kettle.
 Unbox the kettle. This kettle comes with a plug-in base, a kettle body, and a top. Take off the top and inspect the kettle for any damage or dirt. Wipe it down with a damp rag to be safe.

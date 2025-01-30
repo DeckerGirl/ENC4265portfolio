@@ -14,7 +14,7 @@ The first thing I noticed was how crowded with information and ads Amazon’s ho
 The promotional bannersfeatured under product reccomendations stuck out slightly more with their white-text-on-blue back design. It detailed options, including an advertisement for Amazon’s own credit card and other promotional banners. I beleive the overwhelmingly white background used for this site's design coupled with the use of light blue text links, washes out information and makes the site difficult to navigate. There's too much white space and the text doesn't stand out enough against it.
 
 Today, Amazon uses a cleaner, more dynamic layout that focuses more on user intent and behavior rather than overwhelming them with too many options upfront.
-<center><img src="Screenshot 2025-01-23 195228.png"></center>
+<center><img src="Screenshot (1).png"></center>
 
 ## Assignment Rationale 
 

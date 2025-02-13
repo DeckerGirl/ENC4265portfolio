@@ -8,11 +8,8 @@
 
 
 
-### MEMORANDUM
-**TO:** Mr. Todd Krinsky
-
-**FROM:** A. Morgan
-
-**SUBJECT:** Recommendations for Reebok T7.8 manual
-
-**DATE:** Febuary 13th, 2025
+**MEMORANDUM**.<br>
+**TO:** Mr. Todd Krinsky.<br>
+**FROM:** A. Morgan.<br>
+**SUBJECT:** Recommendations for Reebok T7.8 manual.<br>
+**DATE:** Febuary 13th, 2025.<br>

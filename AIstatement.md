@@ -1,6 +1,6 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Statement of AI](AIstatement.md) 
 
-Homepage: I have not used AI for the About Me page with the exception of spellcheck.
+Homepage:For my About Me section, I used Grammarly for spellcheck.
 
 Reflection blog #1 Wayback Analysis: I have not yet used any AI for this Reflection post. 
 
@@ -8,4 +8,4 @@ Reflection blog #2 Quick Start Guide: As this is a vintage assignment, I did not
 
 Reflection blog #3 Prompt A: I have not used AI for this assignment.
 
-Manual Assessment Memo: ChatGBT was used to generate the text of this assignment from the prompt "I evaluated the Reebok T7.8 treadmill manual and it had these strengths: multi-linguial, detailed, and very accessible. These weaknesses: crowded visually and sometimes grammatically confusing. I recommend reformatting with white space and bullet points and reviewing grammatical errors."  
+Manual Assessment Memo: I used Grammarly for spellcheck. ChatGBT was used to generate the text of this assignment from the prompt "I evaluated the Reebok T7.8 treadmill manual and it had these strengths: multi-linguial, detailed, and very accessible. These weaknesses: crowded visually and sometimes grammatically confusing. I recommend reformatting with white space and bullet points and reviewing grammatical errors."  

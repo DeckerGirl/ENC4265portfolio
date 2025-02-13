@@ -62,8 +62,26 @@ On your portfolio, post the following:
 # Reflective Blog 3
 Prompt A: Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities? 
 
-Reflection: For this reflection, I chose to focus on the assigned reading the "Eight Principles of Information Architecture"
-by Dan Brown.
+Reflection: For this reflection, I chose to focus on the assigned reading "Eight Principles of Information Architecture" by Dan Brown, because I think it provides useful guidelines for individuals getting started in web design. The reading outlines eight principles that help shape intuitive, accessible, and scalable websites. These principles are applicable not only to web design but also to broader areas of technical communication. As a student juggling multiple web design projects this semester, I found these guidlines incredibly useful and aplicable to my other classes.
+
+One key takeaway is the Principle of Objects, which encourages designers to view content as living entities with unique characteristics and relationships. This concept reminded me that content isn't just isolated text or images but rather information that a userbase has to actively interact with.
+
+Another insightful principle is the Principle of Choices, which highlights the importance of offering users clear and limited options. Too many choices can overwhelm users, making navigation frustrating. I realized that when I communicate technical information, simplifying choices and focusing on clarity can improve the user's understanding and experience.
+
+The Principle of Disclosure stood out as particularly relevant to technical communication. It suggests revealing just enough information to help users decide whether to dig deeper. This principle parallels the practice of layering technical content so readers can grasp the essentials without feeling overloaded.
+
+The Principle of Exemplars is another useful concept, as it advocates for using examples to clarify abstract categories. I've noticed that when technical documentation includes relatable examples, it becomes much easier to comprehend.
+
+The Principle of Front Doors reminds designers that users can enter a website from any page. This principle resonated with me because it underscores the need for consistent navigation and context across all pages. Similarly, in technical communication, each section of a document should provide enough context for readers who might jump directly to that section.
+
+The Principle of Multiple Classification suggests offering various ways to access information, recognizing that different users have different mental models. This principle is especially important in technical documentation where diverse audiences may seek information in different ways.
+
+The Principle of Focused Navigation advocates for organizing navigation logically without mixing categories. Clear navigation parallels clear document structure, which helps users find information more efficiently.
+
+Finally, the Principle of Growth encourages designers to build flexible structures that can accommodate future content. This principle reminded me to consider long-term scalability when organizing technical content.
+
+Overall, Brown's principles offer practical guidance for designing user-friendly websites and technical documents alike. I found the reading insightful and applicable to my own technical communication activities, particularly in terms of structuring content thoughtfully, simplifying information for clarity, and anticipating future needs.
+
 
 # Reflective Blog 4
 TBD

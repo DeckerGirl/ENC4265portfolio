@@ -2,11 +2,6 @@
 
 # Manual Assessment Memo
 
-*Note: Image of format inserted here as an example because I don't want you copying and pasting the Markdown for this one! Figure it out (Google/AI fine to use to assist)! :)
-
-![Memo formatting image](memoLabels.jpg) 
-
-
 
 **MEMORANDUM**.<br>
 **TO:** Mr. Todd Krinsky.<br>
@@ -28,4 +23,6 @@ Recommendations:
 
 - Reformat the layout to use more white space, bullet points, and numbering.
 
-Maintain and highlight the multilingual options for broader market reach.
+- Maintain and highlight the multilingual options for broader market reach.
+  
+  AI tools used: Grammarly for grammar and spelling corrections; ChatGPT for text generation based on the assignment prompt.

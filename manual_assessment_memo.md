@@ -9,7 +9,7 @@
 **SUBJECT:** Recommendations for Reebok T7.8 manual<br>
 **DATE:** Febuary 13th, 2025<br>
 
-This memo contains the results of an assessment of the Reebok T7.8 manual, available at [https://www.manua.ls/reebok/t7-8/manual](https://www.manua.ls/reebok/t7-8/manual).
+This memo contains the results of an assessment of the Reebok T7.8 treadmill manual, available at [https://www.manua.ls/reebok/t7-8/manual](https://www.manua.ls/reebok/t7-8/manual).
 
 For example, It is noteworthy that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as a mainly English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets. 
 

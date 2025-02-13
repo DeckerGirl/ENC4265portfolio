@@ -60,7 +60,8 @@ On your portfolio, post the following:
 -Your reflection 
 ---
 # Reflective Blog 3
-TBD
+Prompt A: Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities? 
+Reflection: 
 
 # Reflective Blog 4
 TBD

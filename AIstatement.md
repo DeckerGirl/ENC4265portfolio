@@ -8,4 +8,4 @@ Reflection blog #2 Quick Start Guide: As this is a vintage assignment, I did not
 
 Reflection blog #3 Prompt A: I have not used AI for this assignment.
 
-Manual Assessment Memo:
+Manual Assessment Memo: ChatGBT was used to generate the text of this assignment from the prompt "I evaluated Reebok T7.8 treadmill manual  and it had these strengths: [list them], these weaknesses [list them here], and I recommend these things [list here]."  

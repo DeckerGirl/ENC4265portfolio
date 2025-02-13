@@ -2,6 +2,10 @@
 
 Homepage: I have not used AI for the About Me page with the exception of spellcheck.
 
-Wayback Analysis: I have not yet used any AI for this Reflection post. 
+Reflection blog #1 Wayback Analysis: I have not yet used any AI for this Reflection post. 
 
-Quick Start Guide: As this is a vintage assignment, I did not use AI for this reflective blog.
+Reflection blog #2 Quick Start Guide: As this is a vintage assignment, I did not use AI for this reflective blog.
+
+Reflection blog #3 Prompt A: I have not used AI for this assignment.
+
+Manual Assessment Memo:

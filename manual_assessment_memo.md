@@ -11,7 +11,7 @@
 
 I evaluated the manual for one of your company's treadmills, the Reebok T7.8, available at [https://www.manua.ls/reebok/t7-8/manual](https://www.manua.ls/reebok/t7-8/manual).
 
-This manual has some significant strengths. For example, I was particularly pleased and surprised to see that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as an English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets.
+This manual has some significant strengths. For example, I was particularly pleased and surprised to see that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as a mainly English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets.
 
 However, I identified several areas for improvement. The section explaining treadmill folding lacks clarity. The English instructions read, "PULL UP THE TREADMILL FROM TREADMILL'S REAR BY HANDS AS PICTURE SHOWN," which is grammatically incorrect and potentially confusing. Rewording it to "Pull the treadmill upward from the rear using the handles, as shown in the picture" would improve clarity.
 

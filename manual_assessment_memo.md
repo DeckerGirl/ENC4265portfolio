@@ -11,11 +11,12 @@
 
 This memo contains the results of an assessment of the Reebok T7.8 manual, available at [https://www.manua.ls/reebok/t7-8/manual](https://www.manua.ls/reebok/t7-8/manual).
 
-For example, It is noteworthy that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as a mainly English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets. that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as an English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets.
+For example, It is noteworthy that the instructions were available in English, German, French, Dutch, Czech, Hungarian, and Slovenian despite this being listed as a mainly English manual. This multilingual approach broadens accessibility and ensures usability across diverse markets. 
 
-However, several areas of this manual were identified for improvement. The section explaining treadmill folding lacks clarity. The English instructions read, "PULL UP THE TREADMILL FROM TREADMILL'S REAR BY HANDS AS PICTURE SHOWN," which is grammatically incorrect and potentially confusing. Rewording it to "Pull the treadmill upward from the rear using the handles, as shown in the picture" would improve clarity. The section explaining treadmill folding lacks clarity. The English instructions read, "PULL UP THE TREADMILL FROM TREADMILL'S REAR BY HANDS AS PICTURE SHOWN," which is grammatically incorrect and potentially confusing. Rewording it to "Pull the treadmill upward from the rear using the handles, as shown in the picture" would improve clarity.
+However, several areas of this manual were identified for improvement. The section explaining treadmill folding lacks clarity. The English instructions read, "PULL UP THE TREADMILL FROM TREADMILL'S REAR BY HANDS AS PICTURE SHOWN," which is grammatically incorrect and potentially confusing. Rewording it to "Pull the treadmill upward from the rear using the handles, as shown in the picture" would improve clarity. 
 
 Additionally, the manual's layout could benefit from better visual structure. The text is densely packed, making it difficult to follow step-by-step instructions. Using numbered steps, bullet points, and more consistent headings would enhance readability.
+
 Recommendations:
 
 - Revise unclear and grammatically incorrect instructions for clarity.

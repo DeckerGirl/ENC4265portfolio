@@ -9,10 +9,10 @@
 
 
 ### MEMORANDUM
-**TO:** (You can put a company name or a person's name here--try to match what's on the manual)
+**TO:** Mr. Todd Krinsky
 
-**FROM:** (Your name or your alias)
+**FROM:** A. Morgan
 
-**SUBJECT:** (This should be clear and concise)
+**SUBJECT:** Recommendations for Reebok T7.8 manual
 
-**DATE:** (Can be the date you completed the assignment or the deadline date)
+**DATE:** Febuary 13th, 2025

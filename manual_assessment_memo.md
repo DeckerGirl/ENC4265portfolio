@@ -3,7 +3,7 @@
 # Manual Assessment Memo
 
 
-**MEMORANDUM**.<br>
+**MEMORANDUM**<br>
 **TO:** Mr. Todd Krinsky.<br>
 **FROM:** A. Morgan.<br>
 **SUBJECT:** Recommendations for Reebok T7.8 manual.<br>

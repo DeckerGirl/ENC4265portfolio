@@ -61,7 +61,9 @@ On your portfolio, post the following:
 ---
 # Reflective Blog 3
 Prompt A: Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities? 
-Reflection: 
+
+Reflection: For this reflection, I chose to focus on the assigned reading the "Eight Principles of Information Architecture"
+by Dan Brown.
 
 # Reflective Blog 4
 TBD

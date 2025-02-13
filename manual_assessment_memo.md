@@ -8,8 +8,11 @@
 
 
 
-###**MEMORANDUM**
-###**TO:** (You can put a company name or a person's name here--try to match what's on the manual)
-###**FROM:** (Your name or your alias)
-###**SUBJECT:** (This should be clear and concise)
-###**DATE:** (Can be the date you completed the assignment or the deadline date)
+### MEMORANDUM
+**TO:** (You can put a company name or a person's name here--try to match what's on the manual)
+
+**FROM:** (Your name or your alias)
+
+**SUBJECT:** (This should be clear and concise)
+
+**DATE:** (Can be the date you completed the assignment or the deadline date)

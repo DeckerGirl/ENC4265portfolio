@@ -4,10 +4,10 @@
 
 
 **MEMORANDUM**<br>
-**TO:** Mr. Todd Krinsky.<br>
-**FROM:** A. Morgan.<br>
-**SUBJECT:** Recommendations for Reebok T7.8 manual.<br>
-**DATE:** Febuary 13th, 2025.<br>
+**TO:** Mr. Todd Krinsky<br>
+**FROM:** A. Morgan<br>
+**SUBJECT:** Recommendations for Reebok T7.8 manual<br>
+**DATE:** Febuary 13th, 2025<br>
 
 I evaluated the manual for one of your company's treadmills, the Reebok T7.8, available at [https://www.manua.ls/reebok/t7-8/manual](https://www.manua.ls/reebok/t7-8/manual).
 

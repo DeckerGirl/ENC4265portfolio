@@ -24,5 +24,5 @@ Recommendations:
 - Reformat the layout to use more white space, bullet points, and numbering.
 
 - Maintain and highlight the multilingual options for broader market reach.
-  
-  AI tools used: Grammarly for grammar and spelling corrections; ChatGPT for text generation based on the assignment prompt.
+
+AI tools used: Grammarly for grammar and spelling corrections; ChatGPT for text generation based on the assignment prompt.

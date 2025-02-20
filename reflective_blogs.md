@@ -103,7 +103,7 @@ General Thoughts:
 
 Through this exercise, I learned that effective communication often requires balancing detail and brevity. As a future IT front-end developer, I can expect to communicate complex technical information to a wide range of stakeholders, and it’s crucial to tailor my output to their needs. Being able to condense a proposal into a concise and clear format without sacrificing essential details is an important skill in project management and client communication.<br>
 
-#### Origional Prompt Result 
+#### Origional Prompt Result:
 **Project Proposal: Web Application Redesign**
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>

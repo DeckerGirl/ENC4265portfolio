@@ -92,11 +92,11 @@ Reflection: For this reflection I entered the prompt, "generate a detailed proje
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
 
-## 1. Project Overview
+### 1. Project Overview
 
 LuLuDesign plans to redesign its web application’s front-end to enhance user experience, improve accessibility, and modernize the interface using the latest front-end technologies. The team prioritizes responsiveness, performance optimization, and adherence to UI/UX best practices.
 
-## 2. Objectives
+### 2. Objectives
 
 - Improve the visual appeal and usability of the web application.
 
@@ -108,7 +108,7 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 - Implement modern front-end technologies for a scalable and maintainable codebase.
 
-## 3. Scope of Work
+### 3. Scope of Work
 
 **3.1 Design Phase**
 
@@ -148,7 +148,7 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 - Offer ongoing support and updates as needed.
 
-## 4. Project Timeline
+### 4. Project Timeline
 **Phase      Task                          Duration**
 Design       Wireframing & Prototyping     2 Weeks
 Development  Front-End Implementation      6 Weeks
@@ -157,7 +157,7 @@ Deployment   Launch & Maintenance          1 Weeks
 
 Total Estimated Time: 11 Weeks
 
-## 5. Technology Stack
+### 5. Technology Stack
 
 - HTML5, CSS3, JavaScript (ES6+)
 

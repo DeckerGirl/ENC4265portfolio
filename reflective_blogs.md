@@ -150,11 +150,11 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
    - Offer ongoing support and updates as needed.
 
 #### 4. Project Timeline
-**Phase      Task                          Duration**
-Design       Wireframing & Prototyping     2 Weeks
-Development  Front-End Implementation      6 Weeks
-Testing      QA & Bug Fixes                2 Weeks
-Deployment   Launch & Maintenance          1 Weeks
+**Phase      Task                          Duration**<br>
+Design       Wireframing & Prototyping     2 Weeks<br>
+Development  Front-End Implementation      6 Weeks<br>
+Testing      QA & Bug Fixes                2 Weeks<br>
+Deployment   Launch & Maintenance          1 Weeks<br>
 
 Total Estimated Time: 11 Weeks
 #### 5. Technology Stack
@@ -183,24 +183,24 @@ Total Estimated Time: 11 Weeks
 
 #### 7. Budget Estimate
 
-**Item                        Estimated Cost**
-UI/UX Design                  5k
-Front-End Development         15k
-Testing & QA                  3k
-Deployment & Maintenance      2k
-**Total Estimated Budget      25k**
+**Item                        Estimated Cost**<br>
+UI/UX Design                  5k<br>
+Front-End Development         15k<br>
+Testing & QA                  3k<br>
+Deployment & Maintenance      2k<br>
+**Total Estimated Budget      25k**<br>
 
 #### 8. Risks & Mitigation Strategies
 
-**Risk                   Mitigation Strategy**
+**Risk                   Mitigation Strategy**<br>
 
-Scope Creep              Define clear project requirements and use agile methodologies for flexibility.
+Scope Creep              Define clear project requirements and use agile methodologies for flexibility.<br>
 
-Performance Issues       Optimize assets and use efficient coding practices.
+Performance Issues       Optimize assets and use efficient coding practices.<br>
 
-Browser Compatibility    Test on multiple browsers and devices.
+Browser Compatibility    Test on multiple browsers and devices.<br>
 
-Delays in Development    Set clear milestones and conduct regular progress reviews.
+Delays in Development    Set clear milestones and conduct regular progress reviews.<br>
 
 #### 9. Conclusion
 This project delivers a modernized, user-friendly, and high-performance web application that aligns with current industry standards. By implementing best practices in UI/UX design and front-end development, the team ensures an engaging and accessible experience for all users. The team will complete the project within the proposed timeline and budget, ensuring long-term value for LuLuDesign.

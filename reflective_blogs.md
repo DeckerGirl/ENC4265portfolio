@@ -86,7 +86,14 @@ Overall, Brown's principles offer practical guidance for designing user-friendly
 # Reflective Blog 4
 Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
 
-Reflection:
+Reflection: For this reflection I entered the prompt, "generate a detailed project proposal for a front-end developer working on a web application redesign" into ChatGBT and received the following.
+**Project Proposal: Web Application Redesign**
+
+Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
+
+**1. Project Overview**
+
+The purpose of this project is to redesign the front-end of the [Client/Company Name] web application to enhance user experience, improve accessibility, and modernize the interface using the latest front-end technologies. The redesign will focus on responsiveness, performance optimization, and adherence to UI/UX best practices.
 
 # Reflective Blog 5
 TBD

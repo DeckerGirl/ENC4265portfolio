@@ -230,11 +230,11 @@ Front-End Developer
 
 **Project Proposal: Web Application Redesign**Project Proposal: Web Application Redesign
 
-Project Overview: 
+**Project Overview:**
 
       The goal of this project is to redesign the front-end of an existing web application to enhance user experience (UX), improve functionality, and modernize the    visual design. The redesign will focus on making the interface more intuitive, responsive, and accessible while ensuring seamless integration with the back-end services.
 
-Project Objectives:
+**Project Objectives:**
 
     Improve user interface (UI) and user experience (UX) design to create a more intuitive, engaging, and accessible platform.
     Optimize the web application for mobile and tablet devices, ensuring full responsiveness across all screen sizes.
@@ -242,7 +242,7 @@ Project Objectives:
     Refactor the existing codebase for better readability and scalability.
     Ensure cross-browser compatibility and improve application performance by optimizing load times.
 
-Scope of Work: The project will consist of the following key tasks:
+**Scope of Work:** The project will consist of the following key tasks:
 
     UI/UX Design: Work closely with the design team to refine the visual aspects of the application, including layout, typography, color schemes, and interactive elements. Conduct user testing to ensure that the design meets user needs.
     Front-End Development: Develop the front-end using modern technologies like HTML5, CSS3, JavaScript, and the chosen front-end framework (e.g., React or Angular). Focus on creating reusable components, ensuring modularity, and implementing smooth animations and transitions.
@@ -252,7 +252,7 @@ Scope of Work: The project will consist of the following key tasks:
     Cross-Browser Testing: Test the redesigned application across all major browsers (Chrome, Firefox, Safari, Edge) to ensure consistent behavior and appearance.
     Accessibility: Ensure the redesigned application adheres to accessibility standards (WCAG 2.1) to provide an inclusive experience for users with disabilities.
 
-Project Timeline: The project will span approximately 12 weeks, broken down into the following phases:
+**Project Timeline:** The project will span approximately 12 weeks, broken down into the following phases:
 
     Phase 1: Discovery & Planning (Week 1-2)
         Define project requirements and gather feedback from stakeholders.
@@ -284,7 +284,7 @@ Project Timeline: The project will span approximately 12 weeks, broken down into
         Monitor post-launch performance and gather user feedback for any further improvements.
         Provide documentation for future maintenance and updates.
 
-Resources Required:
+**Resources Required:**
 
     Front-end Developer (Lead)
     UI/UX Designer
@@ -292,7 +292,7 @@ Resources Required:
     QA Tester
     Project Manager
 
-Technologies:
+**Technologies:**
 
     HTML5, CSS3, JavaScript
     Front-end Framework (React.js, Angular, or Vue.js)
@@ -301,21 +301,21 @@ Technologies:
     Testing Tools (Jest, Cypress)
     Design Tools (Figma, Adobe XD)
 
-Budget Estimate: The estimated budget for the project is $30,000, which will cover the following:
+**Budget Estimate:** The estimated budget for the project is $30,000, which will cover the following:
 
     Developer salaries
     Design and prototyping tools
     Testing tools and licenses
     Miscellaneous expenses (hosting, third-party services)
 
-Success Criteria:
+**Success Criteria:**
 
     Improved user engagement and satisfaction, measured through analytics and user feedback.
     Enhanced application performance, including faster load times and smooth interaction.
     Compliance with accessibility guidelines, ensuring the application is accessible to a wider audience.
     On-time delivery of the redesigned web application within the allocated budget.
 
-Conclusion: 
+**Conclusion:** 
 
       This web application redesign will significantly improve both the usability and functionality of the application, offering an enhanced experience for end-users. By adopting modern technologies and following a user-centered design approach, the project aims to meet both business goals and user needs. This proposal outlines the objectives, scope, timeline, and resources needed to successfully complete the front-end redesign of the web application. This redesign will deliver a modern, user-friendly, and high-performance web application that meets industry standards and enhances the user experience. The project will be completed within the proposed timeline and budget, ensuring long-term value for LuLuDesign.
 

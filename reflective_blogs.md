@@ -85,11 +85,12 @@ Overall, Brown's principles offer practical guidance for designing user-friendly
 
 
 # Reflective Blog 4
-Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
+**Prompt C:** Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.<br>
+**Origonal Prompt:** For this reflection I entered the following prompt into ChatGBT: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign"<br>
+**Revised Prompt:** I thought the output was too dense so I stacked the existing prompt with: " - Remove any tables and shorten this project purposal"<br>
+**Assessement:** <br>
 
-Reflection: For this reflection I entered the prompt: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign". Below is my first result.<br>
-
-#### Origional Prompt 
+#### Origional Prompt Result 
 **Project Proposal: Web Application Redesign**
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
@@ -211,8 +212,7 @@ Front-End Developer
 
 
 
-#### Revised Prompt: <br>
-After this prompt result I decided to stack onto the prompt for edits: "Remove any tables and shorten this project purposal".The follwong is result 2.<br>
+#### Revised Prompt Result: <br>
 
 
 **Project Proposal: Web Application Redesign**Project Proposal: Web Application Redesign
@@ -311,7 +311,7 @@ Amber Morgan<br>
 Front-End Developer
 
 
-#### Assessment: 
+
 
 # Reflective Blog 5
 TBD

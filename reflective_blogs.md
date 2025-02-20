@@ -192,15 +192,15 @@ Deployment & Maintenance---2k<br>
 
 #### 8. Risks & Mitigation Strategies
 
-**Risk                   Mitigation Strategy**<br>
+**Risk**-----------------**Mitigation Strategy**<br>
 
-Scope Creep              Define clear project requirements and use agile methodologies for flexibility.<br>
+Scope Creep--------------Define clear project requirements and use agile methodologies for flexibility.<br>
 
-Performance Issues       Optimize assets and use efficient coding practices.<br>
+Performance Issues------Optimize assets and use efficient coding practices.<br>
 
-Browser Compatibility    Test on multiple browsers and devices.<br>
+Browser Compatibility---Test on multiple browsers and devices.<br>
 
-Delays in Development    Set clear milestones and conduct regular progress reviews.<br>
+Delays in Development---Set clear milestones and conduct regular progress reviews.<br>
 
 #### 9. Conclusion
 This project delivers a modernized, user-friendly, and high-performance web application that aligns with current industry standards. By implementing best practices in UI/UX design and front-end development, the team ensures an engaging and accessible experience for all users. The team will complete the project within the proposed timeline and budget, ensuring long-term value for LuLuDesign.

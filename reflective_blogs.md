@@ -89,7 +89,7 @@ Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to genera
 
 Reflection: For this reflection I entered the prompt: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign". Below is my first result.<br>
 
-#### Prompt Result 1
+#### Origional Prompt 
 **Project Proposal: Web Application Redesign**
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
@@ -211,7 +211,7 @@ Front-End Developer
 
 
 
-#### Prompt Result 2: <br>
+#### Revised Prompt: <br>
 After this prompt result I decided to stack onto the prompt for edits: "Remove any tables and shorten this project purposal".The follwong is result 2.<br>
 
 
@@ -309,6 +309,9 @@ Conclusion:
 **Prepared by:**<br>
 Amber Morgan<br>
 Front-End Developer
+
+
+#### Assessment: 
 
 # Reflective Blog 5
 TBD

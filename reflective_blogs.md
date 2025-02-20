@@ -205,7 +205,7 @@ Delays in Development    Set clear milestones and conduct regular progress revie
 #### 9. Conclusion
 This project delivers a modernized, user-friendly, and high-performance web application that aligns with current industry standards. By implementing best practices in UI/UX design and front-end development, the team ensures an engaging and accessible experience for all users. The team will complete the project within the proposed timeline and budget, ensuring long-term value for LuLuDesign.
 
-Prepared by:Amber Morgan
+**Prepared by:**<br>Amber Morgan<br>
 Front-End Developer
 
 

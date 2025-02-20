@@ -217,7 +217,9 @@ After this prompt result I decided to stack onto the prompt for edits: "Remove a
 
 **Project Proposal: Web Application Redesign**Project Proposal: Web Application Redesign
 
-Project Overview: The goal of this project is to redesign the front-end of an existing web application to enhance user experience (UX), improve functionality, and modernize the visual design. The redesign will focus on making the interface more intuitive, responsive, and accessible while ensuring seamless integration with the back-end services.
+Project Overview: 
+
+      The goal of this project is to redesign the front-end of an existing web application to enhance user experience (UX), improve functionality, and modernize the    visual design. The redesign will focus on making the interface more intuitive, responsive, and accessible while ensuring seamless integration with the back-end services.
 
 Project Objectives:
 

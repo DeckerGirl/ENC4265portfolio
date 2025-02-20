@@ -111,43 +111,43 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 #### 3. Scope of Work
 
-###### 3.1 Design Phase
+   ###### 3.1 Design Phase
+   
+   - Conduct user research and analyze feedback from current users.
+   
+   - Create wireframes and prototypes using Figma or Adobe XD.
+   
+   - Develop a design system for consistent UI elements.
 
-- Conduct user research and analyze feedback from current users.
+   ###### 3.2 Development Phase
 
-- Create wireframes and prototypes using Figma or Adobe XD.
+   - Convert approved UI designs into functional web pages.
+   
+   - Implement responsive design using CSS Grid, Flexbox, and media queries.
+   
+   - Utilize modern JavaScript frameworks (React.js, Vue.js, or Angular) for improved performance.
+   
+   - Optimize images, fonts, and scripts for faster loading times.
+   
+   - Ensure cross-browser compatibility and mobile responsiveness.
 
-- Develop a design system for consistent UI elements.
+   ###### 3.3 Testing & Quality Assurance
 
-###### 3.2 Development Phase
+   - Perform unit and integration testing for front-end components.
+   
+   - Conduct user testing to gather feedback on usability.
+   
+   - Fix bugs and optimize performance before deployment.
 
-- Convert approved UI designs into functional web pages.
+   ###### 3.4 Deployment & Maintenance
 
-- Implement responsive design using CSS Grid, Flexbox, and media queries.
-
-- Utilize modern JavaScript frameworks (React.js, Vue.js, or Angular) for improved performance.
-
-- Optimize images, fonts, and scripts for faster loading times.
-
-- Ensure cross-browser compatibility and mobile responsiveness.
-
-###### 3.3 Testing & Quality Assurance
-
-- Perform unit and integration testing for front-end components.
-
-- Conduct user testing to gather feedback on usability.
-
-- Fix bugs and optimize performance before deployment.
-
-###### 3.4 Deployment & Maintenance
-
--- Deploy the redesigned application on a staging server for final review.
-
-- Migrate the new front-end to the production environment.
-
-- Provide documentation and train the internal team.
-
-- Offer ongoing support and updates as needed.
+   - Deploy the redesigned application on a staging server for final review.
+   
+   - Migrate the new front-end to the production environment.
+   
+   - Provide documentation and train the internal team.
+   
+   - Offer ongoing support and updates as needed.
 
 #### 4. Project Timeline
 **Phase      Task                          Duration**

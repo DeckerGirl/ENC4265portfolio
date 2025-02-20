@@ -4,7 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
-4. [Reflective Blog 3](#reflective-blog-4)
+4. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
@@ -88,11 +88,12 @@ Overall, Brown's principles offer practical guidance for designing user-friendly
 Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
 
 Reflection: For this reflection I entered the prompt, "generate a detailed project proposal for a front-end developer working on a web application redesign" into ChatGBT stcked ith "remove passive voice and address a comapny called LuLuDesign" and I received the following project proposal.<br>
+
 **Project Proposal: Web Application Redesign**
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
 
-### 1. Project Overview
+#### 1. Project Overview
 
 LuLuDesign plans to redesign its web application’s front-end to enhance user experience, improve accessibility, and modernize the interface using the latest front-end technologies. The team prioritizes responsiveness, performance optimization, and adherence to UI/UX best practices.
 

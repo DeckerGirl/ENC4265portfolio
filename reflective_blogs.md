@@ -111,7 +111,7 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 #### 3. Scope of Work
 
-**##### 3.1 Design Phase**
+###### 3.1 Design Phase
 
 - Conduct user research and analyze feedback from current users.
 
@@ -119,7 +119,7 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 - Develop a design system for consistent UI elements.
 
-**##### 3.2 Development Phase**
+###### 3.2 Development Phase
 
 - Convert approved UI designs into functional web pages.
 
@@ -131,7 +131,7 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 - Ensure cross-browser compatibility and mobile responsiveness.
 
-**##### 3.3 Testing & Quality Assurance**
+###### 3.3 Testing & Quality Assurance
 
 - Perform unit and integration testing for front-end components.
 
@@ -139,9 +139,9 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
 
 - Fix bugs and optimize performance before deployment.
 
-**##### 3.4 Deployment & Maintenance**
+###### 3.4 Deployment & Maintenance
 
-- Deploy the redesigned application on a staging server for final review.
+-- Deploy the redesigned application on a staging server for final review.
 
 - Migrate the new front-end to the production environment.
 

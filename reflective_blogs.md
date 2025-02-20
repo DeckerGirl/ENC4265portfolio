@@ -150,10 +150,10 @@ LuLuDesign plans to redesign its web application’s front-end to enhance user e
    - Offer ongoing support and updates as needed.
 
 #### 4. Project Timeline
-**Phase**----------**Task**-------------------------**Duration**<br>
+**Phase**----------**Task**------------------------------**Duration**<br>
 Design---------Wireframing & Prototyping-----2 Weeks<br>
 Development--Front-End Implementation------6 Weeks<br>
-Testing---------QA & Bug Fixes----------------2 Weeks<br>
+Testing---------QA & Bug Fixes-------------------2 Weeks<br>
 Deployment---Launch & Maintenance----------1 Weeks<br>
 
 Total Estimated Time: 11 Weeks

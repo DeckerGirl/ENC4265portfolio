@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 3](#reflective-blog-4)
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
@@ -86,14 +87,99 @@ Overall, Brown's principles offer practical guidance for designing user-friendly
 # Reflective Blog 4
 Prompt C: Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.
 
-Reflection: For this reflection I entered the prompt, "generate a detailed project proposal for a front-end developer working on a web application redesign" into ChatGBT and received the following.
+Reflection: For this reflection I entered the prompt, "generate a detailed project proposal for a front-end developer working on a web application redesign" into ChatGBT stcked ith "remove passive voice and address a comapny called LuLuDesign" and I received the following project proposal.<br>
 **Project Proposal: Web Application Redesign**
 
 Prepared by: Amber Morgan<br>Role: Front-End Developer<br>Date: 2/20/25<br>Project Title: Web Application Redesign for LuLuDesign<br>
 
-**1. Project Overview**
+## 1. Project Overview
 
-The purpose of this project is to redesign the front-end of the [Client/Company Name] web application to enhance user experience, improve accessibility, and modernize the interface using the latest front-end technologies. The redesign will focus on responsiveness, performance optimization, and adherence to UI/UX best practices.
+LuLuDesign plans to redesign its web application’s front-end to enhance user experience, improve accessibility, and modernize the interface using the latest front-end technologies. The team prioritizes responsiveness, performance optimization, and adherence to UI/UX best practices.
+
+## 2. Objectives
+
+- Improve the visual appeal and usability of the web application.
+
+- Enhance responsiveness to ensure compatibility with various screen sizes and devices.
+
+- Optimize performance to reduce load times and improve interactivity.
+
+- Ensure accessibility compliance with WCAG 2.1 standards.
+
+- Implement modern front-end technologies for a scalable and maintainable codebase.
+
+## 3. Scope of Work
+
+**3.1 Design Phase**
+
+- Conduct user research and analyze feedback from current users.
+
+- Create wireframes and prototypes using Figma or Adobe XD.
+
+- Develop a design system for consistent UI elements.
+
+**3.2 Development Phase**
+
+- Convert approved UI designs into functional web pages.
+
+- Implement responsive design using CSS Grid, Flexbox, and media queries.
+
+- Utilize modern JavaScript frameworks (React.js, Vue.js, or Angular) for improved performance.
+
+- Optimize images, fonts, and scripts for faster loading times.
+
+- Ensure cross-browser compatibility and mobile responsiveness.
+
+**3.3 Testing & Quality Assurance**
+
+- Perform unit and integration testing for front-end components.
+
+- Conduct user testing to gather feedback on usability.
+
+- Fix bugs and optimize performance before deployment.
+
+**3.4 Deployment & Maintenance**
+
+- Deploy the redesigned application on a staging server for final review.
+
+- Migrate the new front-end to the production environment.
+
+- Provide documentation and train the internal team.
+
+- Offer ongoing support and updates as needed.
+
+## 4. Project Timeline
+**Phase      Task                          Duration**
+Design       Wireframing & Prototyping     2 Weeks
+Development  Front-End Implementation      6 Weeks
+Testing      QA & Bug Fixes                2 Weeks
+Deployment   Launch & Maintenance          1 Weeks
+
+Total Estimated Time: 11 Weeks
+
+## 5. Technology Stack
+
+- HTML5, CSS3, JavaScript (ES6+)
+
+- React.js/Vue.js/Angular (based on project requirements)
+
+- Tailwind CSS / Bootstrap for styling
+
+- Axios/Fetch API for data handling
+
+- Webpack/Vite for bundling and optimization
+
+- Jest/Cypress for testing
+
+## 6. Deliverables
+
+- High-fidelity wireframes and design mockups.
+
+- Fully responsive and optimized front-end codebase.
+
+- Testing reports and bug fixes before launch.
+
+- Documentation and maintenance plan.
 
 # Reflective Blog 5
 TBD

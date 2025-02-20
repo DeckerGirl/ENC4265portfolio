@@ -304,27 +304,11 @@ Success Criteria:
 
 Conclusion: 
 
-      This web application redesign will significantly improve both the usability and functionality of the application, offering an enhanced experience for end-users. By adopting modern technologies and following a user-centered design approach, the project aims to meet both business goals and user needs.
-   
-   This proposal outlines the objectives, scope, timeline, and resources needed to successfully complete the front-end redesign of the web application.
-   
-   Prepared by: Amber Morgan
-   Role: Front-End Developer
-   Date: 2/20/25
-   Project Title: Web Application Redesign for LuLuDesign
-
-Prepared by: Amber Morgan<br>
-Role: Front-End Developer<br>
-Date: 2/20/25<br>
-Project Title: Web Application Redesign for LuLuDesign<br>
-
-This redesign will deliver a modern, user-friendly, and high-performance web application that meets industry standards and enhances the user experience. The project will be completed within the proposed timeline and budget, ensuring long-term value for LuLuDesign.
+      This web application redesign will significantly improve both the usability and functionality of the application, offering an enhanced experience for end-users. By adopting modern technologies and following a user-centered design approach, the project aims to meet both business goals and user needs. This proposal outlines the objectives, scope, timeline, and resources needed to successfully complete the front-end redesign of the web application. This redesign will deliver a modern, user-friendly, and high-performance web application that meets industry standards and enhances the user experience. The project will be completed within the proposed timeline and budget, ensuring long-term value for LuLuDesign.
 
 **Prepared by:**<br>
 Amber Morgan<br>
 Front-End Developer
-
-This version provides a more streamlined overview while maintaining key details about the project’s goals, scope, timeline, and budget.
 
 # Reflective Blog 5
 TBD

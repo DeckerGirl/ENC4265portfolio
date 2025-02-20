@@ -181,6 +181,34 @@ Total Estimated Time: 11 Weeks
 
 - Documentation and maintenance plan.
 
+#### 7. Budget Estimate
+
+**Item                        Estimated Cost**
+UI/UX Design                  5k
+Front-End Development         15k
+Testing & QA                  3k
+Deployment & Maintenance      2k
+**Total Estimated Budget      25k**
+
+#### 8. Risks & Mitigation Strategies
+
+**Risk                   Mitigation Strategy**
+
+Scope Creep              Define clear project requirements and use agile methodologies for flexibility.
+
+Performance Issues       Optimize assets and use efficient coding practices.
+
+Browser Compatibility    Test on multiple browsers and devices.
+
+Delays in Development    Set clear milestones and conduct regular progress reviews.
+
+#### 9. Conclusion
+This project delivers a modernized, user-friendly, and high-performance web application that aligns with current industry standards. By implementing best practices in UI/UX design and front-end development, the team ensures an engaging and accessible experience for all users. The team will complete the project within the proposed timeline and budget, ensuring long-term value for LuLuDesign.
+
+Prepared by:Amber Morgan
+Front-End Developer
+
+
 # Reflective Blog 5
 TBD
 

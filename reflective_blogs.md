@@ -86,10 +86,12 @@ Overall, Brown's principles offer practical guidance for designing user-friendly
 
 # Reflective Blog 4
 **Prompt C:** Ask a generative AI tool (maybe one in Boodlebox or Copilot) to generate something you might have to write in your future career. Assess the result, and then revise your prompt or "stack" an additional prompt onto it (e.g., "remove the passive voice and add headings"). Congratulations, you're a prompt engineer now. Add this skill to your resume. On your website, post: 1) your original and revised prompts 2) your assessment of what it generated 3) (optional) what it generated.<br>
-**Origonal Prompt:** For this reflection I entered the following prompt into ChatGBT: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign"<br>
-**Revised Prompt:** I thought the output was too dense so I stacked the existing prompt with: " - Remove any tables and shorten this project purposal"<br>
-**Assessement:** 
 
+**Origonal Prompt:** For this reflection I entered the following prompt into ChatGBT: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign"<br>
+
+**Revised Prompt:** I thought the output was too dense so I stacked the existing prompt with: " - Remove any tables and shorten this project purposal"<br>
+
+**Assessement:** 
 The output from the original prompt was highly detailed and covered all the necessary components of a project proposal. It included sections on the project overview, objectives, scope of work, timeline, technology stack, budget estimates, and risk mitigation strategies. While the thoroughness was beneficial for a comprehensive proposal, the information felt dense and overwhelming. The inclusion of tables and multiple subheadings made it seem more formal and rigid, which could be challenging for quick comprehension or for a reader who prefers a more streamlined presentation.
 
 Overall, the original result served its purpose by offering a full breakdown of the project, but it lacked conciseness. It would work well in contexts where stakeholders require detailed explanations and a structured approach. However, for my specific needs, where I was looking for a more digestible version, this approach was too lengthy.

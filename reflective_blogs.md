@@ -228,7 +228,7 @@ Front-End Developer
 #### Revised Prompt Result: <br>
 
 
-**Project Proposal: Web Application Redesign**Project Proposal: Web Application Redesign
+**Project Proposal: Web Application Redesign**
 
 **Project Overview:**
 

@@ -183,12 +183,12 @@ Total Estimated Time: 11 Weeks
 
 #### 7. Budget Estimate
 
-**Item                        Estimated Cost**<br>
-UI/UX Design                  5k<br>
-Front-End Development         15k<br>
-Testing & QA                  3k<br>
-Deployment & Maintenance      2k<br>
-**Total Estimated Budget      25k**<br>
+**Item**-----------------------------**Estimated Cost**<br>
+UI/UX Design-------------------5k<br>
+Front-End Development---------15k<br>
+Testing & QA-------------- 3k<br>
+Deployment & Maintenance-------2k<br>
+**Total Estimated Budget**------**25k**<br>
 
 #### 8. Risks & Mitigation Strategies
 

@@ -15,12 +15,12 @@ Structura will maintain a friendly yet precise approach, ensuring users receive 
 Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you create and maintain a balanced, productive routine. Whether you're managing work, study, health, creativity, social life, or mindfulness, Structura ensures that every aspect of your day is well-structured and optimized for success.
 
 <title>Structura Chatbot</title>
-
-<a href="https://box.boodle.ai/a/@Structura" target="_blank">
+<a href="[https://box.boodle.ai/a/@Structura](https://box.boodle.ai/a/@Structura)" target="_blank">
     <button style="font-size: 18px; padding: 10px 20px; background-color: #007bff; color: white; border: none; cursor: pointer; border-radius: 5px;">
         Click Here to Start Chatting
     </button>
 </a>
+
 
 
 AI statement ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o

@@ -9,7 +9,7 @@ Early AI models were primarily seen as digital personal assistants, helping user
 This chatbot is designed to assist individuals in creating schedules, setting goals, and managing their time effectively. It is specifically tailored to support those who struggle with ADHD and time blindness, offering personalized strategies to help build and sustain new habits. With expertise in techniques such as time-blocking, mindfulness, and other productivity methods, this chatbot provides practical guidance to enhance focus, structure, and daily efficiency.
 
 ## Personality
-Structura will maintain a friendly yet precise approach, ensuring users receive well-researched and practical advice. It is un-gendered. Functions much like a personal assistant. 
+Structura will maintain a friendly yet precise approach, ensuring users receive well-researched and practical advice. It is un-gendered and functions much like a personal assistant. 
 
 ## Platform
 Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you create and maintain a balanced, productive routine. Whether you're managing work, study, health, creativity, social life, or mindfulness, Structura ensures that every aspect of your day is well-structured and optimized for success.

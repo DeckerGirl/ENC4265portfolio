@@ -14,22 +14,39 @@ Structura will maintain a friendly yet precise approach, ensuring users receive 
 ## Platform
 Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you create and maintain a balanced, productive routine. Whether you're managing work, study, health, creativity, social life, or mindfulness, Structura ensures that every aspect of your day is well-structured and optimized for success.
 
-<title>Structura Chatbot</title>
-<a href="[https://box.boodle.ai/a/@Structura](https://box.boodle.ai/a/@Structura)" target="_blank">
-    button {
-    font-size: 18px;
-    padding: 10px 20px;
-    background-color: #87A96B;
-    color: white;
-    border: 10px solid;
-    border-image-source: url('https://example.com/floral-border.png'); /* Replace with your image */
-    border-image-slice: 30;
-    border-radius: 5px;
-    cursor: pointer;
-}
-        Talk to Structura!
-    </button>
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Structura Chatbot</title>
+    <style>
+        /* Styling for the button */
+        button {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #87A96B;
+            color: white;
+            border: 10px solid;
+            border-image-source: url('https://example.com/floral-border.png'); /* Replace with your floral image */
+            border-image-slice: 30;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #6F8F57; /* Change color on hover */
+        }
+    </style>
+</head>
+<body>
+    <a href="https://box.boodle.ai/a/@Structura" target="_blank">
+        <button>
+            Talk to Structura!
+        </button>
+    </a>
+</body>
+</html>
 
 
 

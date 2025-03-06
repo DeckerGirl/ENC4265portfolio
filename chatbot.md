@@ -16,7 +16,7 @@ Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you cr
 
 <title>Structura Chatbot</title>
 <a href="[https://box.boodle.ai/a/@Structura](https://box.boodle.ai/a/@Structura)" target="_blank">
-    <button style="font-size: 18px; padding: 10px 20px; background-color: #9CAF88; color: white; border: none; cursor: pointer; border-radius: 5px;">
+    <button style="font-size: 18px; padding: 10px 20px; background-color: ##76866D; color: white; border: none; cursor: pointer; border-radius: 5px;">
         Click Here to Start Chatting
     </button>
 </a>

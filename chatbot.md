@@ -50,4 +50,4 @@ Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you cr
 
 
 ### AI Statement 
-ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o
+ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Structura bot is powered by ChatGPT GPT-4o

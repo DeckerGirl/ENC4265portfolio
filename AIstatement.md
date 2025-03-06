@@ -11,3 +11,6 @@ Reflection blog #3 Prompt A: I have not used AI for this assignment.
 Manual Assessment Memo: I used Grammarly for spellcheck. ChatGBT was used to generate the text of this assignment from the prompt "I evaluated the Reebok T7.8 treadmill manual and it had these strengths: multi-linguial, detailed, and very accessible. These weaknesses: crowded visually and sometimes grammatically confusing. I recommend reformatting with white space and bullet points and reviewing grammatical errors."  
 
 Reflection blog #4 Prompt C: For this reflection I entered the following prompt into ChatGBT: "Generate a detailed project proposal for a front-end developer working on a web application redesign for a comapny called LuLuDesign". I thought the output was too dense so I stacked the existing prompt with: " - Remove any tables and shorten this project purposal"
+
+
+ChatBot: AI statement ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o

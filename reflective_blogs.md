@@ -61,9 +61,9 @@ On your portfolio, post the following:
 -Your reflection 
 ---
 # Reflective Blog 3
-Prompt A: Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities? 
+**Prompt A:** Reflect on your assigned reading this week in a detailed manner that demonstrates you read and understood the assigned reading. What can you 'take away' from this reading? What insightful concepts did you read about that can inform your own technical communication activities? 
 
-Reflection: For this reflection, I chose to focus on the assigned reading "Eight Principles of Information Architecture" by Dan Brown, because I think it provides useful guidelines for individuals getting started in web design. The reading outlines eight principles that help shape intuitive, accessible, and scalable websites. These principles are applicable not only to web design but also to broader areas of technical communication. As a student juggling multiple web design projects this semester, I found these guidlines incredibly useful and aplicable to my other classes.
+**Reflection:** For this reflection, I chose to focus on the assigned reading "Eight Principles of Information Architecture" by Dan Brown, because I think it provides useful guidelines for individuals getting started in web design. The reading outlines eight principles that help shape intuitive, accessible, and scalable websites. These principles are applicable not only to web design but also to broader areas of technical communication. As a student juggling multiple web design projects this semester, I found these guidlines incredibly useful and aplicable to my other classes.
 
 One key takeaway is the Principle of Objects, which encourages designers to view content as living entities with unique characteristics and relationships. This concept reminded me that content isn't just isolated text or images but rather information that a userbase has to actively interact with.
 
@@ -327,7 +327,11 @@ Front-End Developer
 
 
 # Reflective Blog 5
-TBD
+
+**Prompt E:** Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
+
+**Reflection:** 
+
 
 # Reflective Blog 6
 TBD

@@ -13,3 +13,7 @@ Structura will maintain a friendly yet precise approach, ensuring users receive 
 
 ## Platform
 Structura is a custom AI bot powered by ChatGPT 4o-mini, designed to help you create and maintain a balanced, productive routine. Whether you're managing work, study, health, creativity, social life, or mindfulness, Structura ensures that every aspect of your day is well-structured and optimized for success.
+
+
+
+AI statement ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o

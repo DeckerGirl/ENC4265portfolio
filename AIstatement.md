@@ -14,3 +14,5 @@ Reflection blog #4 Prompt C: For this reflection I entered the following prompt 
 
 
 ChatBot: AI statement ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o
+
+Reflection blog #5 Prompt D AI statement: ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o

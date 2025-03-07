@@ -400,6 +400,8 @@ Structura’s core functionality focuses on productivity, but its conversational
 
 In Conclusion, Structura is a well-designed chatbot that performs its intended functions of helping users optimize their routines and manage their time more effectively. Its main strength lies in its ability to offer personalized and practical advice on productivity, with specific strategies for those struggling with ADHD, time blindness, or general time management. The user experience is smooth, and the interface feels supportive and encouraging. However, there is room for improvement in understanding deeper emotional contexts and providing more expansive responses. Structura benefits both users and organizations by offering scalable, personalized productivity support that can lead to improved performance, focus, and work-life balance.
 
+AI statement: ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o
+
 # Reflective Blog 6
 TBD
 

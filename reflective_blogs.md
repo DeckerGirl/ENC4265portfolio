@@ -5,6 +5,7 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
@@ -330,8 +331,74 @@ Front-End Developer
 
 **Prompt E:** Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
 
-**Reflection:** 
+**Reflection:** For this reflection I chose to review my own custom chatbot, Structura, from our last assignment. Structura is a custom AI chatbot built with the aim of helping users create and maintain a balanced, productive routine. It focuses on supporting individuals who struggle with time blindness, ADHD, or other challenges that impact productivity. Structura is designed to assist with organizing tasks, setting achievable goals, and providing strategies for improving focus and well-being. The bot tailors its advice to various aspects of users’ lives, such as work, study, health, creativity, social life, and mindfulness, with the ultimate goal of enhancing their daily productivity and mental clarity.
+For this review, I asked Structur to layout a routine for me that would help me wake up early, maintain a workout routine, maintain a study schedule that is adhd friendly, andleave room for hobbies and reading. Below is the result I received:
 
+"Absolutely, Amber! It sounds like you have a lot of great goals and interests, and I can help you create a routine that balances your responsibilities while incorporating strategies to manage ADHD. Here’s a suggested weekly schedule that aligns with your goals:
+
+### Weekly Routine
+
+**Monday to Sunday:**
+
+**6:00 AM - Wake Up**
+- Start your day with a glass of water to hydrate.
+- Morning stretches/yoga (15-20 minutes) to help with tech neck and prepare for running.
+
+**6:30 AM - Running/Workout**
+- **Monday, Wednesday, Friday:** Base training runs (30-45 minutes).
+- **Tuesday, Thursday:** Resistance training (Legs on Tuesday, Pull on Thursday).
+- **Saturday:** Push day (upper body workout).
+- **Sunday:** Active recovery (light yoga or a leisurely walk).
+
+**8:00 AM - Breakfast**
+- A nutritious breakfast to fuel your day.
+
+**8:30 AM - Study/IT Projects**
+- Focus on your IT studies or coding projects (1.5-2 hours).
+- Use the Pomodoro technique (25 minutes of focused work followed by a 5-minute break).
+
+**10:30 AM - News and Reading**
+- Spend an hour reading, checking in on news, scientific magazines, or literary content.
+
+**11:30 AM - Errands/Family Check-ins/Review Calendar and Schedule**
+- Dedicate this time to handle errands, appointments, or check in with family (1 hour).
+
+**12:00 PM - Lunch**
+- Take a break and enjoy a healthy lunch.
+
+**1:00 PM - Hobbies/Creative Time**
+- Spend 1-2 hours on hobbies like guitar, piano, sketching, crochet/sewing, or journaling.
+
+**3:00 PM - Wrap Up**
+- Use this time to reflect on your day, plan for tomorrow, or finish any remaining tasks.
+
+
+**4:00 PM - Socializing/Free-time**
+- Hangout with friends/night out.
+
+**Evening Routine:**
+- Dinner and unwind time with friends or personal activities.
+- Aim for a consistent bedtime to ensure adequate sleep.
+
+### Tips for Managing ADHD:
+1. **Time-Blocking:** Use a planner or digital calendar to block out your schedule. Color-code different activities (study, workout, social, etc.) for visual clarity.
+2. **Set Boundaries:** Communicate your schedule with friends and family to help them understand when you’re available and when you need focused time.
+3. **Use Reminders:** Set alarms or reminders for transitions between activities to help you stay on track.
+4. **Limit Distractions:** Create a dedicated study space free from distractions, and consider using apps that block distracting websites during study time.
+5. **Reflect Weekly:** Spend some time each week to reflect on what worked and what didn’t, and adjust your routine accordingly.
+
+Feel free to tweak this schedule based on your preferences and commitments. Let me know if you need any adjustments or additional strategies!"
+
+Review: 
+I think structura performs well in its role as a productivity assistant, particularly for users managing complex daily routines. Structura is efficient in offering relevant productivity advice based on the input received from the user. Its functionality includes personalized goal-setting, time-blocking suggestions, mindfulness and focus techniques, task management, and reminders. It maintains a consistent understanding of time management techniques, such as breaking tasks into smaller pieces, making the overall task of goal-setting seem more achievable. Structura is very user-friendly. The conversational interface feels natural and approachable, with simple prompts guiding users through various productivity strategies. The chatbot's responses are clear, concise, and actionable, which helps users understand how to implement its advice in real time. It tailors its advice based on user input, which makes it feel like a personal assistant rather than just a generic bot. Structura's tone is also consistently positive, supportive, and non-judgmental, which can help users feel more motivated and confident.I think its advice, such as time-blocking, prioritization, and mindfulness, is practical and effective for individuals looking to optimize their routines.
+
+Structura significantly benefits users who need help managing their time and establishing structured routines. It is especially useful for individuals with ADHD, time blindness, or other similar challenges, as it offers practical tools to help them stay focused, organized, and calm. Structura also promotes well-being by incorporating mindfulness techniques that reduce stress and improve mental clarity. Structura can be an invaluable tool for any organization, particularly in enhancing employee productivity and well-being. By providing on-demand support, Structura could reduce the need for one-on-one coaching sessions or long training seminars. It can offer personalized productivity guidance to employees, boosting their efficiency and mental clarity, which may lead to better overall performance and lower levels of burnout.
+
+Still, it does have some weaknesses. While Structura excels at time management and productivity, it struggles with understanding nuanced contexts related to emotional well-being or highly complex tasks outside its scope. For example, users experiencing emotional overwhelm might find the responses too generic or unsympathetic.
+Structura’s core functionality focuses on productivity, but its conversational depth is limited. It could improve in areas like providing deeper emotional or psychological support or recognizing the complexity of different user needs.
+
+
+In Conclusion, Structura is a well-designed chatbot that performs its intended functions of helping users optimize their routines and manage their time more effectively. Its main strength lies in its ability to offer personalized and practical advice on productivity, with specific strategies for those struggling with ADHD, time blindness, or general time management. The user experience is smooth, and the interface feels supportive and encouraging. However, there is room for improvement in understanding deeper emotional contexts and providing more expansive responses. Structura benefits both users and organizations by offering scalable, personalized productivity support that can lead to improved performance, focus, and work-life balance.
 
 # Reflective Blog 6
 TBD

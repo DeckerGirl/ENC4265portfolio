@@ -407,7 +407,7 @@ AI statement: ChatGPT GPT-4o was utilized in the creation of this page, serving 
 
 **Prompt F:** Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
 
-**Reflection:** I found Website Set-up the easiest.
+**Reflection:** So far we've completed a website set-up, memo analysis, and specialized chatbot for this course. I found Website Set-up the easiest.
 
 # Reflective Blog 7
 TBD

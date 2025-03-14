@@ -415,6 +415,8 @@ Overall, this deliverable reinforced my enjoyment of hands-on technical work and
 
 Based on our professor’s feedback, I would focus more on maintaining professional, straightforward language and clear documentation. Information should be concise, positive, and to the point — especially for professional prospects. I want to leave a sleek, polished impression. Improving my documentation would also make my work easier to understand for others and for myself when revisiting it later. If I were to redo this assignment, I would refine my introductory paragraph and explore more advanced HTML and CSS techniques to further enhance the final product
 
+AI statement: ChatGPT GPT-4o was used for spellchecking.
+
 # Reflective Blog 7
 TBD
 

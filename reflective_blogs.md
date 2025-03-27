@@ -7,6 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7.  [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
@@ -418,7 +419,7 @@ Based on our professor’s feedback, I would focus more on maintaining professio
 AI statement: ChatGPT GPT-4o was used for spellchecking.
 
 # Reflective Blog 7
-TBD
+Prompt G: Analyze an assignment explanation page from this course (including video overview, if there is one) as though it is a mini-tutorial or how-to. Obviously, the audience and genre of writing are different than a typical how-to, but what elements are the same/similar? What are different? What could be more clear, regardless of the genre or intended audience? (I might incorporate your suggestions in future courses!) 
 
 # Reflective Blog 8 (Optional - Make-up)
 TBD

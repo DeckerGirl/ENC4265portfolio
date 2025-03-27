@@ -7,7 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
-7.  [Reflective Blog 7](#reflective-blog-7)
+7. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 For this assignment I chose to analyze the design of a amazon webpage from 2005. 
@@ -419,7 +419,18 @@ Based on our professor’s feedback, I would focus more on maintaining professio
 AI statement: ChatGPT GPT-4o was used for spellchecking.
 
 # Reflective Blog 7
-Prompt G: Analyze an assignment explanation page from this course (including video overview, if there is one) as though it is a mini-tutorial or how-to. Obviously, the audience and genre of writing are different than a typical how-to, but what elements are the same/similar? What are different? What could be more clear, regardless of the genre or intended audience? (I might incorporate your suggestions in future courses!) 
+**Prompt G:** Analyze an assignment explanation page from this course (including video overview, if there is one) as though it is a mini-tutorial or how-to. Obviously, the audience and genre of writing are different than a typical how-to, but what elements are the same/similar? What are different? What could be more clear, regardless of the genre or intended audience? (I might incorporate your suggestions in future courses!) 
+
+**Reflection:**
+
+The Procedure Video Assignment Explanation Page shares several similarities with traditional how-to guides. It follows a step-by-step structure, guiding students through where to start, what to include, and how to submit their work, much like a tutorial. The assignment sets clear objectives, ensuring students understand the goal of creating a concise and well-structured procedure video. Additionally, it provides useful tips and resources, such as using YouTube captions, practicing narration, and incorporating visual indicators like arrows and circles, which enhance clarity. While not always found in how-to guides, the inclusion of a rubric functions as a checklist, similar to troubleshooting sections in technical tutorials. The accompanying video further reinforces these instructional elements by emphasizing the importance of clear, well-organized content, polished presentation, and proper use of captions and digital tools.
+However, there are notable differences. Unlike a general how-to guide, which serves a broad audience, this assignment is tailored for academic purposes and includes an evaluation component, adding an assessment dimension. It also allows for flexibility in execution, giving students creative freedom in their approach, which is not always present in strict procedural guides. Another distinction is the absence of an immediate demonstration in the written explanation; while many tutorials include step-by-step visuals or embedded videos, this assignment only suggests resources without directly showing examples. The video, however, does provide some level of demonstration, such as showcasing the Loom tool and highlighting cursor movements, which enhances understanding but could be further improved with a full example of a successful procedure video.
+To improve clarity, incorporating visual examples or linking to sample videos could help set clearer expectations. Condensing key points into a brief summary at the top would enhance readability, and highlighting common pitfalls—such as poor audio quality, missing captions, or failure to list tools used—could help students avoid mistakes upfront. Additionally, interactive formatting, such as collapsible sections for tips, submission instructions, and the rubric, could streamline navigation. Given the video’s informal tone and self-referential nature, ensuring that students receive a polished example alongside the explanation could reinforce the expectations more effectively. By implementing these refinements, the assignment page could function even more effectively as a structured guide while maintaining its academic intent.
+
+AI statement: ChatGPT GPT-4o was used for this reflection.
+
+
+
 
 # Reflective Blog 8 (Optional - Make-up)
 TBD

@@ -17,4 +17,6 @@ ChatBot: AI statement ChatGPT GPT-4o was utilized in the creation of this page, 
 
 Reflection blog #5 Prompt D: ChatGPT GPT-4o was utilized in the creation of this page, serving as a tool for spellchecking and ensuring clarity and consistency. Powered by ChatGPT GPT-4o
 
-Reflection blog #5 Prompt F: I used spellcheck for this assignment.
+Reflection blog #6 Prompt F: I used spellcheck for this assignment.
+
+Reflection Blog #7 Prompt G: AI statement: ChatGPT GPT-4o was used for this reflection.

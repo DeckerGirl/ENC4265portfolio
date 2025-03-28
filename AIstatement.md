@@ -20,3 +20,5 @@ Reflection blog #5 Prompt D: ChatGPT GPT-4o was utilized in the creation of this
 Reflection blog #6 Prompt F: I used spellcheck for this assignment.
 
 Reflection Blog #7 Prompt G: AI statement: ChatGPT GPT-4o was used for this reflection.
+
+Procedural video AI Statement: I used Canva for video production and Chat GPT-4o for script aid.

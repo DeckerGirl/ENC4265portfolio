@@ -3,15 +3,9 @@
 
 # Procedure Video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+[![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/maxresdefault.jpg)](https://youtu.be/IxtJOx_HCeE)
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
-
-[![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)
-
-[![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://www.youtube.com/watch?v=IxtJOx_HCeE)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxtJOx_HCeE" frameborder="0" allowfullscreen></iframe>
+### [![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxtJOx_HCeE" frameborder="0" allowfullscreen></iframe>
+

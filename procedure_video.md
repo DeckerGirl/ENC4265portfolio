@@ -6,4 +6,5 @@
 ## Base Training for New Runners
 
 click thumbnail to watch!
+
 [![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)

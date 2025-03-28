@@ -5,9 +5,6 @@
 
 [![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/maxresdefault.jpg)](https://youtu.be/IxtJOx_HCeE)
 
-### [![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)
-
-[![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)
 
 
 

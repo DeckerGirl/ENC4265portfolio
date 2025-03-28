@@ -7,4 +7,4 @@
 
 ### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
 
-<iframe width="560" height="315" src="https://youtu.be/IxtJOx_HCeE" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/IxtJOx_HCeE/0.jpg)](https://youtu.be/IxtJOx_HCeE)

@@ -194,3 +194,58 @@ Here are some rules of thumb:
     - Links: [text](url) 
 
     - Images: ![alt text](image.jpg) 
+
+### 13. Using HTML, CSS, and JavaScript with GitHub Pages 
+
+You can create fully custom sites by uploading: 
+
+   -  .html for structure 
+
+   -  .css for styling 
+
+   -  .js for interactivity 
+
+Place your code in the root or docs/ folder depending on your Pages settings. 
+
+While Markdown is great for simple formatting, HTML is the backbone of most web content. If you want more control over the structure and layout of your GitHub Pages site, you can incorporate HTML, CSS, and JavaScript. 
+
+Using HTML in GitHub Pages: 
+
+GitHub Pages allows you to use standard HTML to build your site. You can create .html files and place them in your repository. Here’s a simple example of an HTML page for your GitHub Pages site: 
+
+### 14. Project Ideas to Host with GitHub Pages 
+
+    - Online portfolio 
+
+    - Blog or writing journal 
+
+    - Resume or CV 
+
+    - JavaScript games 
+
+    - Documentation for a class or project 
+
+### 15. Common Errors and How to Fix Them 
+
+    - 404 Error: Check file paths or if Pages is enabled 
+
+    - DNS Errors: Make sure your domain is correctly configured 
+
+    - Nothing displays: Ensure there's an index.html file in your repo 
+
+### 16. GitHub Desktop: An Easier Way to Manage Repos 
+Don’t like the terminal? GitHub Desktop is a GUI for Git: 
+
+    - Clone repos with one click 
+
+    - Commit changes via buttons 
+
+    - Visual diff viewer to track changes 
+    
+Great for beginners! 
+
+### 17. More GitHub Features to Explore 
+
+GitHub Actions 
+
+Automate tasks directly from your GitHub repo, like deploying your site when you push changes. Example workflows: 

@@ -3,4 +3,4 @@
 # Manual 
 
 ## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 
-![githubcat](path/to/githubcat.webp)
+![githubcat](path/to/githubcat.jpg)

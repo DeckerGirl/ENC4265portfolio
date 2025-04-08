@@ -3,3 +3,4 @@
 # Manual 
 
 ## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 
+![GitHub Cat](path/to/githubcat.webp)

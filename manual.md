@@ -3,4 +3,5 @@
 # Manual 
 
 ## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 
-(path/to/githubcat.jpg)
+<img src="githubcat.jpg" alt="GitHub Cat" width="500">
+

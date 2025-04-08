@@ -249,3 +249,107 @@ Great for beginners!
 GitHub Actions 
 
 Automate tasks directly from your GitHub repo, like deploying your site when you push changes. Example workflows: 
+
+    - Automatically build and deploy a Jekyll site 
+
+    - Lint and test code on push 
+
+    - Schedule regular tasks 
+
+Pull Requests 
+
+Used to propose changes. When you fork a repo and want to contribute back: 
+
+    - Push your changes to your fork 
+
+    - Click New Pull Request on the original repo 
+
+    - Maintainers can review and merge your changes 
+Issues & Discussions 
+
+Great for collaboration: 
+
+    - Use Issues to track bugs, improvements, and tasks 
+
+    - Use Discussions to chat with other contributors, ask questions, or gather feedback 
+
+### GitHub Gists 
+
+Host and share small code snippets easily. Gists can be public or private and support versioning just like regular repos. 
+
+### Project Boards 
+
+Kanban-style boards to track progress with To Do, In Progress, and Done columns. Use them for organizing multi-step projects or group work. 
+
+### GitHub CLI (Command Line Interface) 
+
+Advanced users can interact with GitHub using commands like: 
+
+gh repo clone username/repo 
+
+Useful for scripting and automation! 
+
+### Contributions & Insights 
+
+Each repo has a Contributors section and analytics on commits, code frequency, and traffic. These help you track project health. 
+
+### Pages Analytics (via 3rd-party tools) 
+GitHub Pages doesn’t have built-in analytics, but you can add: 
+
+    - Google Analytics (via <script> tag in your HTML) 
+
+    - Plausible or other privacy-friendly alternatives 
+
+### Pinning Repositories 
+
+You can pin your best or most active projects to your GitHub profile so visitors see them first. Go to your profile and click the "Customize your pins" button. 
+
+### Profile README 
+
+Add a personalized README to your GitHub profile to show off your skills, links, and current work. Create a repo named after your username to activate this feature. 
+# Hi there 👋 I'm a student learning web development. Welcome to my GitHub! 
+
+### 18. Useful Resources & Communities 
+
+  -  GitHub Docs 
+
+  -  Pages Help 
+
+  -  Jekyll Docs 
+
+  -  Stack Overflow 
+
+  -  Dev.to 
+
+ 
+### 19. Glossary 
+
+# Glossary
+
+| **Term**              | **Definition**                                                                 |
+|-----------------------|--------------------------------------------------------------------------------|
+| **Repository (Repo)**  | A project folder hosted on GitHub.                                               |
+| **Commit**             | A saved snapshot of your code changes.                                           |
+| **Branch**             | A separate version of your codebase, allowing for independent work on features. |
+| **Merge**              | Combining branches into one, typically after reviewing changes.                 |
+| **Pull Request**       | A proposed change waiting for approval, usually after forking a repository.      |
+| **Static Site**        | A website with fixed HTML, CSS, and JavaScript content, without a backend.      |
+| **DNS**                | Domain Name System, used to link custom domains to servers.                     |
+| **Fork**               | A personal copy of someone else's GitHub repository, allowing for experimentation or contributions. |
+| **GitHub Actions**     | Automation tools for CI/CD on GitHub, enabling tasks like deployment and testing. |
+| **Gist**               | A mini repository for sharing code snippets, either public or private.         |
+| **GitHub Pages**       | A hosting feature for static websites, directly from repositories.              |
+| **Profile README**     | A custom welcome message on your GitHub profile, activated by creating a repo named after your username. |
+| **Project Board**      | A visual management tool that uses boards like **To Do**, **In Progress**, and **Done** to track tasks and progress. |
+| **GitHub CLI**         | Command-line interface for managing GitHub repos directly from the terminal.    |
+| **Insights**           | Analytics about contributions and activity within a repo, helping track project health. |
+
+ 
+
+### 20. Final Tips & What’s Next 
+
+    - Keep your profile updated 
+    - Experiment with HTML and Markdown 
+    - Explore Jekyll and custom domains 
+    - Contribute to open-source projects
+    - Build and showcase your digital portfolio 

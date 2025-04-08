@@ -102,8 +102,8 @@ GitHub is a cloud-based platform where developers store code, collaborate on pro
     - Try out code safely 
 
     - Make changes and suggest improvements with Pull Requests 
-
-   -  Build on open-source projects 
+    
+    - Build on open-source projects 
 
     How to Fork: 
 

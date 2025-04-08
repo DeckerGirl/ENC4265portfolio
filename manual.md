@@ -3,5 +3,5 @@
 # Manual 
 
 ## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 
-<img src="githubcat.jpg" alt="GitHub Cat" width="500">
+<img src="githubcat.jpg" alt="GitHub Cat" width="700">
 

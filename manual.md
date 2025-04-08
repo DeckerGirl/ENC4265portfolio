@@ -2,4 +2,5 @@
 
 # Manual 
 
-<span style="color: blue;"> ## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 
+<span style="color: blue;"> 
+## GitHub Pages: A Beginner-Friendly Guide for Students and Hobby Coders 

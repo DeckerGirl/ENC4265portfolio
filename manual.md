@@ -353,3 +353,5 @@ Add a personalized README to your GitHub profile to show off your skills, links,
     - Explore Jekyll and custom domains 
     - Contribute to open-source projects
     - Build and showcase your digital portfolio 
+
+Ai Statement:  ChatGPT GPT-4o was used to create this manual.

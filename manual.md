@@ -7,45 +7,32 @@
 
 ### Table of Contents 
 
-    1. Introduction to GitHub & GitHub Pages 
+**Table of Contents**
 
-    2. Why Use GitHub Pages? 
+**Table of Contents**
 
-    3. Getting Started with GitHub 
+1. [Introduction to GitHub & GitHub Pages](#1-introduction-to-github--github-pages)  
+2. [Why Use GitHub Pages?](#2-why-use-github-pages)  
+3. [Getting Started with GitHub](#3-getting-started-with-github)  
+4. [Creating Your First Repository](#4-creating-your-first-repository)  
+5. [Understanding Branches & Commits](#5-understanding-branches--commits)  
+6. [Forking Repositories and Why It Matters](#6-forking-repositories-and-why-it-matters)  
+7. [Introduction to GitHub Pages Hosting](#7-introduction-to-github-pages-hosting)  
+8. [Creating a GitHub Pages Site (Step-by-Step)](#8-creating-a-github-pages-site-step-by-step)  
+9. [Using a Custom Domain with GitHub Pages](#9-using-a-custom-domain-with-github-pages)  
+10. [Using Jekyll for Blog-Style Sites](#10-using-jekyll-for-blog-style-sites)  
+11. [Theme Customization](#11-theme-customization)  
+12. [Markdown Basics for GitHub Pages](#12-markdown-basics-for-github-pages)  
+13. [Using HTML, CSS, and JavaScript with GitHub Pages](#13-using-html-css-and-javascript-with-github-pages)  
+14. [Project Ideas to Host with GitHub Pages](#14-project-ideas-to-host-with-github-pages)  
+15. [Common Errors and How to Fix Them](#15-common-errors-and-how-to-fix-them)  
+16. [GitHub Desktop: An Easier Way to Manage Repos](#16-github-desktop-an-easier-way-to-manage-repos)  
+17. [More GitHub Features to Explore](#17-more-github-features-to-explore)  
+18. [Useful Resources & Communities](#18-useful-resources--communities)  
+19. [Glossary](#19-glossary)  
+20. [Final Tips & What’s Next](#20-final-tips--whats-next)  
 
-    4. Creating Your First Repository 
 
-    5. Understanding Branches & Commits 
-
-    6. Forking Repositories and Why It Matters 
-
-    7. Introduction to GitHub Pages Hosting 
-
-    8. Creating a GitHub Pages Site (Step-by-Step) 
-
-    9. Using a Custom Domain with GitHub Pages 
-
-    10. Using Jekyll for Blog-Style Sites 
-
-    11. Theme Customization 
-
-    12.  Markdown Basics for GitHub Pages 
-
-    13. Using HTML, CSS, and JavaScript with GitHub Pages 
-
-    14. Project Ideas to Host with GitHub Pages 
-
-    15. Common Errors and How to Fix Them 
-
-    16. GitHub Desktop: An Easier Way to Manage Repos 
-
-    17. More GitHub Features to Explore 
-
-    18. Useful Resources & Communities 
-
-    19. Glossary 
-
-    20. Final Tips & What’s Next 
 
 ### 1. Introduction to GitHub & GitHub Pages 
 

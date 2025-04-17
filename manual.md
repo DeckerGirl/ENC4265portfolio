@@ -7,10 +7,6 @@
 
 ### Table of Contents 
 
-**Table of Contents**
-
-**Table of Contents**
-
 1. [Introduction to GitHub & GitHub Pages](#1-introduction-to-github--github-pages)  
 2. [Why Use GitHub Pages?](#2-why-use-github-pages)  
 3. [Getting Started with GitHub](#3-getting-started-with-github)  

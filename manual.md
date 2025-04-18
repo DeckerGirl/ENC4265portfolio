@@ -300,6 +300,33 @@ You can pin your best or most active projects to your GitHub profile so visitors
 Add a personalized README to your GitHub profile to show off your skills, links, and current work. Create a repo named after your username to activate this feature. 
 # Hi there 👋 I'm a student learning web development. Welcome to my GitHub! 
 
+### 18. Using GitHub Pages for Class Projects
+
+GitHub Pages can be a great way to present schoolwork like:
+
+- Final projects
+
+- Interactive data visualizations
+
+- Course documentation
+
+You can also collaborate with classmates on shared group projects through GitHub repositories.
+
+
+### 19. Design Tips for GitHub Pages Sites
+
+Keep your site clean and accessible:
+
+- Use simple color schemes
+
+- Add plenty of white space
+
+- Use headings, bullets, and spacing to break up text
+
+- Make sure links are clearly labeled
+
+Try Google Fonts or CSS frameworks like Bootstrap to spice things up.
+
 ### 20. Securing Your GitHub Pages Site
 
 Even though it's static, take care with what you publish:

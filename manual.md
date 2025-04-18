@@ -7,6 +7,8 @@
 
 ### Table of Contents 
 
+## Table of Contents
+
 1. [Introduction to GitHub & GitHub Pages](#1-introduction-to-github--github-pages)  
 2. [Why Use GitHub Pages?](#2-why-use-github-pages)  
 3. [Getting Started with GitHub](#3-getting-started-with-github)  
@@ -24,9 +26,15 @@
 15. [Common Errors and How to Fix Them](#15-common-errors-and-how-to-fix-them)  
 16. [GitHub Desktop: An Easier Way to Manage Repos](#16-github-desktop-an-easier-way-to-manage-repos)  
 17. [More GitHub Features to Explore](#17-more-github-features-to-explore)  
-18. [Useful Resources & Communities](#18-useful-resources--communities)  
-19. [Glossary](#19-glossary)  
-20. [Final Tips & What’s Next](#20-final-tips--whats-next)  
+18. [Using GitHub Pages for Class Projects](#18-using-github-pages-for-class-projects)  
+19. [Design Tips for GitHub Pages Sites](#19-design-tips-for-github-pages-sites)  
+20. [Securing Your GitHub Pages Site](#20-securing-your-github-pages-site)  
+21. [Collaborating with Others](#21-collaborating-with-others)  
+22. [Maintaining Your Site Over Time](#22-maintaining-your-site-over-time)  
+23. [Useful Resources & Communities](#23-useful-resources--communities)  
+24. [Glossary](#24-glossary)  
+25. [Final Tips & What’s Next](#25-final-tips--whats-next)  
+
 
 
 

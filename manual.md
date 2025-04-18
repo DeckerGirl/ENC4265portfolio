@@ -300,20 +300,62 @@ You can pin your best or most active projects to your GitHub profile so visitors
 Add a personalized README to your GitHub profile to show off your skills, links, and current work. Create a repo named after your username to activate this feature. 
 # Hi there 👋 I'm a student learning web development. Welcome to my GitHub! 
 
-### 18. Useful Resources & Communities 
+### 20. Securing Your GitHub Pages Site
 
-  -  GitHub Docs 
+Even though it's static, take care with what you publish:
 
-  -  Pages Help 
+- Don’t upload sensitive data (like API keys)
 
-  -  Jekyll Docs 
+- Use .gitignore to skip unnecessary files
 
-  -  Stack Overflow 
+- Consider enabling HTTPS in Pages settings
+  
+### 21. Collaborating with Others
 
-  -  Dev.to 
+GitHub makes teamwork easier:
+
+- Add collaborators in the repo’s settings
+
+- Use issues to assign tasks and track bugs
+
+- Create branches so you don’t overwrite each other’s work
+
+
+### 22. Maintaining Your Site Over Time
+
+Treat your site like a living document:
+
+- Check and update content regularly
+
+- Add new projects or updates to your bio
+
+- Archive old pages or make a changelog
+
+### 23. Useful Resources & Communities 
+
+- [GitHub Docs](https://docs.github.com/)  
+  The official GitHub documentation is your go-to guide for anything GitHub-related—from basics to advanced workflows.
+
+- [Pages Help](https://docs.github.com/pages)  
+  Specific documentation for GitHub Pages, including deployment steps, theme support, and domain settings.
+
+- [Jekyll Docs](https://jekyllrb.com/docs/)  
+  If you're using Jekyll to build a blog or themed site on GitHub Pages, this is where you'll find everything from templates to plugins.
+
+- [Stack Overflow](https://stackoverflow.com/)  
+  Ask questions, search for errors, and find solutions from the global developer community.
+
+- [Dev.to](https://dev.to/)  
+  A welcoming community for software developers with lots of tutorials and GitHub project showcases.
+
+- [Reddit r/github](https://www.reddit.com/r/github/)  
+  A subreddit for GitHub users to share updates, ask for help, or discover new projects.
+
+- [GitHub Education](https://education.github.com/)
+
 
  
-### 19. Glossary 
+### 24. Glossary 
 
 # Glossary
 
@@ -337,7 +379,7 @@ Add a personalized README to your GitHub profile to show off your skills, links,
 
  
 
-### 20. Final Tips & What’s Next 
+### 25. Final Tips & What’s Next 
 
     - Keep your profile updated 
     - Experiment with HTML and Markdown 

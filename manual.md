@@ -291,6 +291,8 @@ GitHub Pages doesn’t have built-in analytics, but you can add:
 
     - Plausible or other privacy-friendly alternatives 
 
+<img src="ana.jpg" alt="ana" width="900">
+
 ### Pinning Repositories 
 
 You can pin your best or most active projects to your GitHub profile so visitors see them first. Go to your profile and click the "Customize your pins" button. 

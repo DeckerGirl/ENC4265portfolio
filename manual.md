@@ -336,6 +336,8 @@ Even though it's static, take care with what you publish:
 - Use .gitignore to skip unnecessary files
 
 - Consider enabling HTTPS in Pages settings
+
+  <img src="gitignore.png" alt="gitignore width="900">
   
 ### 21. Collaborating with Others
 

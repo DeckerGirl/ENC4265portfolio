@@ -337,7 +337,8 @@ Even though it's static, take care with what you publish:
 
 - Consider enabling HTTPS in Pages settings
 
-<img src="Gitignore.jpg" alt="Gitignore width="900">
+<img src="Gitignore.jpg" alt="Gitignore" width="900">
+
   
 ### 21. Collaborating with Others
 
